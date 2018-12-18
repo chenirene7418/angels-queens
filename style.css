@@ -1,13 +1,28 @@
 * {
-    color:#FFFFFF;
-    background-color:#800000
+    /*color:#FFFFFF;*/
+    /*background-color:#800000*/
 }
 h1 {
-    color: 	#FFFFFF;
-    background-color:#800000
+    font-family: 'Nosifer', cursive;
+    color: #800000;
 }
-p {
-    background-color: #000000   
+.description {
+    font-family: 'Frijole', cursive;
+}
+
+#inputs {
+    /*border: 5px dotted yellow;*/
+}
+
+#queens{
+    width: 700px;
+    height: 500px;
+}
+
+#angels{
+    width: 500px;
+    height: 600px;
+}
 
 
 
