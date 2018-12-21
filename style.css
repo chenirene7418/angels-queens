@@ -5,9 +5,15 @@
 h1 {
     font-family: 'Nosifer', cursive;
     color: #800000;
+    text-align: center
 }
 .description {
     font-family: 'Frijole', cursive;
+    margin-left:10px;
+    margin-right:200px;
+    margin-bottom:80px;
+    padding-right:78px;
+    padding-left:45px;
 }
 
 #inputs {
@@ -22,6 +28,7 @@ h1 {
 #angels{
     width: 500px;
     height: 600px;
+    
 }
 
 
