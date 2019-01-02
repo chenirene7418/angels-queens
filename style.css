@@ -1,6 +1,5 @@
 * {
-    /*color:#FFFFFF;*/
-    /*background-color:#800000*/
+    background-color:	#DA70D6;
 }
 h1 {
     font-family: 'Nosifer', cursive;
@@ -9,27 +8,37 @@ h1 {
 }
 .description {
     font-family: 'Frijole', cursive;
-    margin-left:10px;
-    margin-right:200px;
-    margin-bottom:80px;
-    padding-right:78px;
-    padding-left:45px;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:30px;
+    padding-bottom:30px;
+    margin-right:800px;
+    margin-top:50px;
+    /*border: 70px dotted yellow;*/
+    position:relative;
 }
-
+#angels{
+    width: 250px;
+    height: 350px;
+    position:absolute;
+    top:150px;
+    right:300px;
+    float:right;
+ }
+#queens{
+    width: 500px;
+    height: 350px;
+    position:absolute;
+    right:200px;
+    margin-top:100px;
+}
 #inputs {
     /*border: 5px dotted yellow;*/
+    padding-right:200px;
+    margin-right:500px
 }
 
-#queens{
-    width: 700px;
-    height: 500px;
-}
 
-#angels{
-    width: 500px;
-    height: 600px;
-    
-}
 
 
 
